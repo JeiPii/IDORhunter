@@ -7,6 +7,7 @@ This project was started because of a project within [CyberWorkPlace](https://cy
 - [X] Find URLs within given website
 - [X] Figure out how to solve UserAgent problem with certain websites
 - [X] Check for double links in List
+- [ ] Screenshot function to double check if host is
 - [ ] Make loop that finds new links from target website
 - [ ] Add function to only stay on domain
 - [ ] Add function to dictate how "deep" program will go
