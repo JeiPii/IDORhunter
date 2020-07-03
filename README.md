@@ -1,7 +1,7 @@
 # IDORhunter
 Python script that can hunt for IDOR's by providing cookies.
 
-This project was started because of a project within [CyberWorkPlace](https://cyberworkplace.tech/)
+This project was started as part of the Practical Python   [CyberWorkPlace](https://cyberworkplace.tech/)
 
 ### Goals:
 - [X] Find URLs within given website
